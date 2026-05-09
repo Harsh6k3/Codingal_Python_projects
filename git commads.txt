@@ -1,6 +1,7 @@
 # Go to your project folder
 cd Codingal_Python_projects
 
+
 # Check current branch
 git branch
 
