@@ -1,0 +1,25 @@
+# Go to your project folder
+cd Codingal_Python_projects
+
+# Check current branch
+git branch
+
+# Pull latest main branch
+git pull origin main
+
+# Create and switch to feature branch
+git checkout -b feature/my-feature
+
+# Make code changes...
+
+# Check modified files
+git status
+
+# Add files
+git add .
+
+# Commit changes
+git commit -m "Added new feature of Fibonacci Series"
+
+# Push feature branch to GitHub
+git push -u origin feature/my-feature
